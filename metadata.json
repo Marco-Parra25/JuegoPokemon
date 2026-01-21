@@ -1,0 +1,5 @@
+{
+  "name": " PokeRunner",
+  "description": "A 2.5D infinite runner game where you play as your favorite Pokémon. Choose from the PokeAPI, dodge obstacles, and survive!",
+  "requestFramePermissions": []
+}
